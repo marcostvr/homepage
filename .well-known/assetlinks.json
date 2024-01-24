@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mtvrdigital.prazos_processuais",
+      "sha256_cert_fingerprints": [
+        "9F:94:1B:FF:78:F2:92:EB:B8:50:A0:40:6E:8D:FF:BB:61:DF:08:55:90:3A:C0:19:D0:AF:36:E4:6C:2C:8D:5D",
+        "9A:A8:D4:11:6D:E4:3B:F3:DA:13:78:E5:35:CC:E5:50:10:A6:99:80:00:EA:6D:71:15:74:8A:C0:66:2A:31:87",
+        "44:CC:6E:FA:92:E9:A6:DC:D6:0A:5E:CA:97:C9:18:60:E1:F8:CB:0D:F4:1C:60:36:FD:1E:A9:D1:B3:69:B1:A9"
+      ]
+    }
+  }
+]
